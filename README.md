@@ -6,8 +6,19 @@
 I build production Rails systems that handle money, file taxes, and keep working
 when the internet doesn't — and I run one of them as a business.
 
-- **Senior Software Engineer at [UMAI](https://umai.io)** — reservation and CRM software for restaurants.
+- **Senior Backend Engineer at [UMAI](https://umai.io)** — reservation software for restaurants; the reservation call flow, waitlists and queue management.
 - **Founder and sole engineer of [Hajza](https://hajza.com)** — booking and point-of-sale, live with paying venues in Pakistan and the UAE.
+
+<br>
+
+### Previously
+
+| | | |
+|---|---|---|
+| **2022 – 2025** | Senior Software Developer | K&W Media Consulting, Hamburg *(contract)* |
+| **2022** | Senior Software Engineer | Dubizzle Labs (EMPG), Lahore |
+| **2020 – 2021** | Senior Software Engineer | Tiksom Limited, Lahore |
+| **2018 – 2020** | Associate Software Engineer | System Plus, Lahore |
 
 <br>
 
